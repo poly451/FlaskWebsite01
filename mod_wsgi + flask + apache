@@ -1,4 +1,0 @@
-# I'm trying to integrate flask and mod_wsgi and apache and it hasn't been going well! But I've found this article:
-https://stackoverflow.com/questions/21084791/flask-hello-world-using-apache-and-mod-wsgi-shows-files-in-webroot-only
-#
-# I'm hopeful I can adapt what they've done to my particular circumstances. (cross fingers!) (* knock on wood *)
